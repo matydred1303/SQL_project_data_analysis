@@ -1,0 +1,7 @@
+/.vscode
+/2_dates.sql
+/csv_files
+/INSERT INTO job_applied.sql
+/postgres.session.sql
+/sql_course.session.sql
+/test.sql
